@@ -1,0 +1,33 @@
+﻿  UrssaMiner.cpp
+c:\users\anthony\desktop\school\grade 12\semester 1\ap physics c-mr. van bemmel\final project\gui\gui\urssaminer.h(40): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\anthony\desktop\school\grade 12\semester 1\ap physics c-mr. van bemmel\final project\gui\gui\urssaminer.h(41): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\anthony\desktop\school\grade 12\semester 1\ap physics c-mr. van bemmel\final project\gui\gui\urssaminer.h(43): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\anthony\desktop\school\grade 12\semester 1\ap physics c-mr. van bemmel\final project\gui\gui\urssaminer.h(1005): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\school\grade 12\semester 1\ap physics c-mr. van bemmel\final project\gui\gui\urssaminer.h(1011): warning C4101: 'e': unreferenced local variable
+c:\users\anthony\desktop\school\grade 12\semester 1\ap physics c-mr. van bemmel\final project\gui\gui\urssaminer.h(1025): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\anthony\documents\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\anthony\documents\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\anthony\documents\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\anthony\documents\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\anthony\documents\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\anthony\documents\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  GUI.vcxproj -> C:\Users\Anthony\Desktop\School\Grade 12\Semester 1\AP Physics C-Mr. van Bemmel\Final Project\GUI\x64\Release\GUI.exe
